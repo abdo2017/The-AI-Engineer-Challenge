@@ -174,7 +174,6 @@ Here's a template to get your post started!
 🏗️ Today, I'm thrilled to announce that I've successfully built and shipped my first-ever LLM using the powerful combination of , and the OpenAI API! 🖥️
 
 Check it out 👇
-[LINK TO APP]
 
 A big shoutout to the @AI Makerspace for all making this possible. Couldn't have done it without the incredible community there. 🤗🙏
 
